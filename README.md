@@ -1,1 +1,1 @@
-This project created to count teacher lessons on even/odd week
+This project created to count teacher lessons on even/odd week and number of lessons per day
